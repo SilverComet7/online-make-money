@@ -6,6 +6,7 @@
 
 1. 网赚 app 拉新
 2. 虚拟资料电商
+3. [自媒体自动撸金](https://github.com/SilverComet7/social-media-auto-make-money)
 
 ## 节流措施
 
