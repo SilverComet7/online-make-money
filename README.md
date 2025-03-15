@@ -2,11 +2,14 @@
 
 裁员后的尝试，记录网赚项目，副业，拓宽视野信息差等,觉得有帮助帮忙点个 star
 
+部分内容存在分销ads ，比较介意的不要注册
+
 ## 开源措施
 
 1. 网赚 app 拉新
 2. 虚拟资料电商
 3. [自媒体自动撸金](https://github.com/SilverComet7/social-media-auto-make-money)
+4. 
 
 ## 节流措施
 
